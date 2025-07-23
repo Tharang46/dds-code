@@ -1,4 +1,4 @@
-# dds-code
+# GCD program in c language.
 #include <stdio.h>
 int a, b, c ,g;
 int gcd(){
